@@ -33,6 +33,3 @@ This script allows you to download YouTube videos in MP4 format with the highest
 
 - The script is designed to download videos in MP4 format with the highest available resolution.
 
-Feel free to use and modify the script for your needs!
-
----
